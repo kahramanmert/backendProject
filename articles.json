@@ -1,82 +1,82 @@
 [
 {
 "link": "#",
-"image": "img/fundamental-of-javascript.png",
+"image": "static/img/fundamental-of-javascript.png",
 "name": "Fundamental of Javascript"
 },
 {
 "link": "#",
-"image": "img/grid-css-make-your-life-easier.png",
+"image": "static/img/grid-css-make-your-life-easier.png",
 "name": "Grid CSS Make Your Life Easier"
 },
 {
 "link": "#",
-"image": "img/make-animated-light-mode-and-dark-mode-toggle-with-css.png",
+"image": "static/img/make-animated-light-mode-and-dark-mode-toggle-with-css.png",
 "name": "Make Animated Light Mode And Dark Mode Toggle With CSS"
 },
 {
 "link": "#",
-"image": "img/make-tic-tac-toe-games-with-react-js.png",
+"image": "static/img/make-tic-tac-toe-games-with-react-js.png",
 "name": "Make Tic Tac Toe Games With React JS"
 },
 {
 "link": "#",
-"image": "img/flexbox-css-everything-you-need-to-know.png",
+"image": "static/img/flexbox-css-everything-you-need-to-know.png",
 "name": "Flexbox CSS : Everything You Need To Know"
 },
 {
 "link": "#",
-"image": "img/grid-css-make-your-life-easier.png",
+"image": "static/img/grid-css-make-your-life-easier.png",
 "name": "Grid CSS Make Your Life Easier"
 },
 {
 "link": "#",
-"image": "img/three-easy-way-to-make-div-center.png",
+"image": "static/img/three-easy-way-to-make-div-center.png",
 "name": "3 Easy Way To Make Div Center"
 },
 {
 "link": "#",
-"image": "img/make-animated-light-mode-and-dark-mode-toggle-with-css.png",
+"image": "static/img/make-animated-light-mode-and-dark-mode-toggle-with-css.png",
 "name": "Make Animated Light Mode And Dark Mode Toggle With CSS"
 },
 {
 "link": "#",
-"image": "img/array-in-javascript-learn-js-3.png",
+"image": "static/img/array-in-javascript-learn-js-3.png",
 "name": "Array in Javascript - Learn JS #3"
 },
 {
 "link": "#",
-"image": "img/fundamental-of-javascript.png",
+"image": "static/img/fundamental-of-javascript.png",
 "name": "Fundamental of Javascript"
 },
 {
 "link": "#",
-"image": "img/seven-project-with-javascript-you-must-try-for-your-portfolio.png",
+"image": "static/img/seven-project-with-javascript-you-must-try-for-your-portfolio.png",
 "name": "7 Project With Javascript You Must Try For Your Portfolio"
 },
 {
 "link": "#",
-"image": "img/make-simple-calculator-with-javascript.png",
+"image": "static/img/make-simple-calculator-with-javascript.png",
 "name": "Make Simple Calculator With Javascript"
 },
 {
 "link": "#",
-"image": "img/first-month-of-leaning-react-js.png",
+"image": "static/img/first-month-of-leaning-react-js.png",
 "name": "First Month Of Leaning React JS"
 },
 {
 "link": "#",
-"image": "img/build-markdown-editor-with-react-js.png",
+"image": "static/img/build-markdown-editor-with-react-js.png",
 "name": "Build Markdown Editor With React JS"
 },
 {
 "link": "#",
-"image": "img/getting-started-with-react-js.png",
+"image": "static/img/getting-started-with-react-js.png",
 "name": "Getting Started With React JS"
 },
 {
 "link": "#",
-"image": "img/make-tic-tac-toe-games-with-react-js.png",
+"image": "static/img/make-tic-tac-toe-games-with-react-js.png",
 "name": "Make Tic Tac Toe Games With React JS"
 }
 ]
